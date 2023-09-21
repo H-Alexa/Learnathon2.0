@@ -8,3 +8,9 @@ console.log(first);
 console.log(second);
 console.log(result);
 console.log(addedResult);
+
+addedResult.map(value=>console.log(value));
+first.map(value=>console.log('<li>'+value+'</li>'));
+second.map(value=> console.log(`<li>${value}</li>`));
+
+// Array.find .concat .filter
