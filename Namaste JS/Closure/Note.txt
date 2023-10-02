@@ -1,0 +1,12 @@
+Closure: Function along with its lexical scope bundled together forms a closure. 
+
+Function retains reference of it's lexical environment even when it's execution context no longer exist because of closure.
+
+Uses of closures:
+-Module design pattern
+-Currying
+-Functions like once
+-Memorizing
+-setTimeouts
+-Iterators
+-And others
