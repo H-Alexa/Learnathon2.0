@@ -9,7 +9,5 @@ function x(){
     //7. After 2 seconds have passed, closure comes into play. i's reference were bundled here which is 
     //altered afterwards as  20. So now it will print hi 20
 }
-
+i=100;
 x(); // 1. It invokes the function
-
-
