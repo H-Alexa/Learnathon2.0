@@ -1,0 +1,17 @@
+With reference to JS/constructorProperty.js
+
+Console:
+booli.constructor
+function Boolean()
+
+obj.constructor
+function Object() //Built in constructor function in JS
+
+string.constructor
+function String()
+
+factoryFun.constructor
+function Object()
+
+constructorFun.constructor
+function Circle(radius)

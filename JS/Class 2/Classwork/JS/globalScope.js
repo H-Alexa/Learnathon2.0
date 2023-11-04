@@ -1,4 +1,5 @@
 //Accessible from anywhere
+//initialised or declared outside of functions
 var globalVariable = "I am global";
 console.log(globalVariable);
 

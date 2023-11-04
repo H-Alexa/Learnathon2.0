@@ -1,0 +1,21 @@
+To check data types:
+
+
+____JS code____
+let x = 10;
+var y;
+
+console:
+
+typeof y;
+"undefined"
+typeof "La"
+"string"
+typeof true
+"boolean"
+typeof [1,2,3]
+"object"
+typeof Symbol()
+"symbol"
+typeof null
+"object" 
