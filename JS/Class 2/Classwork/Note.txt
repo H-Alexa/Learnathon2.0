@@ -2,7 +2,9 @@ Topics:
 1. JS variables and types
 2. JS control flow
 3. Functions, Arrow Functions, Object and Array
-4. JS Scooping, Hoisting
+4. JS Scoping, Hoisting
 5. Execution Context
 6. Polyfilling
 7. This Keywork
+
+Scope exercises are taken from: https://academy.vivasoftltd.com/javascript-bootcamp/fundamentals/js-scope/

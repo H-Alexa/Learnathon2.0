@@ -2,8 +2,8 @@
 var x = 10;
 function myFunc()
 {
-    var x=20; //different functional scope
-    console.log(x);
+    var x=20; //different functional scope 
+    console.log(x); //shadowing comes into play
 }
 myFunc();
-console.log(x);
+console.log(x); //shadowing
